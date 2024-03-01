@@ -1,11 +1,4 @@
-
- 
- 
- 
- 
- 
- 
- DELIMITER $$
+DELIMITER $$
 
 CREATE FUNCTION diferencia_fechas(fecha_evento DATE, fecha_comparar DATE)
 RETURNS INT
